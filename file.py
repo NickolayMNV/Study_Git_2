@@ -5,7 +5,7 @@ a = input("Введите код: ")
 def F(a):
     return a**2
 
-
+print("Я здесь")
 print("Ветка 'Коля' ")
 
 
